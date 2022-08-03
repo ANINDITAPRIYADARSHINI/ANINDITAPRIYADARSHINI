@@ -6,11 +6,7 @@
 
 
 - :earth_asia: I’m based in India!
-- 📫 How to reach me: anindita.priyadarshini48@gmail.com
 - 🔭 I’m currently learning more on Javascript subjects along with django for python
-- 💬 I’m open to collaborate on open-source or personal projects
-- :mortar_board:Post-Graduated : MCA (Masters In Computer Application, 2021)
-- :mortar_board:Graduated : BCA (Bacheleors In Computer Application, 2018)
 
 ### Skills
 - Python
