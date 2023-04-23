@@ -1,6 +1,6 @@
 💫 About Me:
 
-👋Hello-Hello!!👋 I'm Anindita Priyadarshini from India.<br><br>🔭 I’m currently working on becoming a Web Developer.<br>🔭 I have completed my Master's in Computer Application(2018-2021).<br>🔭  I’m looking to collaborate on open-source or personal projects.<br>🌱 I’m currently learning React.<br>💬  You can contact me at anindita.priyadarshini48@gmail.com
+👋Hello-Hello!!👋 I'm Anindita Priyadarshini from India.<br><br>💻 I’m currently working on becoming a Web Developer.<br>💻 I have completed my Master's in Computer Application(2018-2021).<br>💻  I’m looking to collaborate on open-source or personal projects.<br>🌱 I’m currently learning React.<br>💬  You can contact me at anindita.priyadarshini48@gmail.com
 
 
 # 💻 Tech Stack:
