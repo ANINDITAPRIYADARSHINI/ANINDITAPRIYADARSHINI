@@ -1,6 +1,10 @@
-💫 About Me:
-👋 Hello-Hello, I'm Anindita Priyadarshini, a Front-end developer💻, passionate about creating delightful user experiences.
-<br>💻 🌱 I'm open to collaborating on exciting projects! Feel free to reach out if you have an idea or need help with front-end development.<br> 🚀 Currently open to new opportunities.<br>💬 📧 Email: anindita.priyadarshini48@gmail.com
+
+👋 Hello-Hello, I'm Anindita Priyadarshini.
+💫 About Me: A Front-end developer💻, passionate about creating delightful user experiences.
+🚀 Currently open to new opportunities.
+🌱 I'm open to collaborating on exciting projects! 
+📧 Email: anindita.priyadarshini48@gmail.com
+<h4>Feel free to reach out if you have an idea or need help with front-end development.</h4>
 
 
 # 💻 Tech Stack:
