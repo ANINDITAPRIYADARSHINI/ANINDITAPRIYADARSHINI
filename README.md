@@ -4,8 +4,8 @@
 <br/>🚀 Currently open to new opportunities.
 <br/>🌱 I'm open to collaborating on exciting projects! 
 <br/>📧 Email: anindita.priyadarshini48@gmail.com
-<h5>Feel free to reach out if you have an idea or need help with front-end development.</h5>
+<h5>Feel free to reach out if you have a project or need help with front-end development.</h5>
 
 
 # 💻 Tech Stack:
-📱 React|🛠 Tailwind CSS | 💻 HTML | 🎨 CSS | 🚀 JavaScript | 🔄 Redux | 🌐 Responsive Design | 🌀 Vite| 🔧 Git | 🛠 Webpack |🚀 Netlify  
+📱 React | 🛠 Tailwind CSS | 💻 HTML | 🎨 CSS | 🚀 JavaScript | 💻 TypeSctipt | 🔄 Redux | 🌐 Responsive Design | 🌀 Vite | 🎨 Figma | 🔧 Git | 🛠 Webpack |🚀 Netlify  
